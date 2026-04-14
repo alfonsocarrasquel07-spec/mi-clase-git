@@ -1,0 +1,5 @@
+C:\Users\User\mi-clase-git\Tallerr\Tallerr\bin\Debug\Tallerr.exe
+C:\Users\User\mi-clase-git\Tallerr\Tallerr\bin\Debug\Tallerr.pdb
+C:\Users\User\mi-clase-git\Tallerr\Tallerr\obj\Debug\Tallerr.csprojResolveAssemblyReference.cache
+C:\Users\User\mi-clase-git\Tallerr\Tallerr\obj\Debug\Tallerr.exe
+C:\Users\User\mi-clase-git\Tallerr\Tallerr\obj\Debug\Tallerr.pdb
